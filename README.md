@@ -1,2 +1,2 @@
 # Python-Programs
-you can find different python programs in this repository.
+You can find different Python programs in this repository.
