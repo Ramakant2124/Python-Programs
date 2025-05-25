@@ -9,180 +9,133 @@ Thank You!!
 
 ## Age and Income for Loan :
 ### Output:
-Enter your age : 21
-Enter your income : 50000
-Eligible for the loan
+![image](https://github.com/user-attachments/assets/e4783a79-985c-43eb-aa02-174259c8544a)
+
 ## Area :
 ### Output:
-Height of Triangle : 2
-Base of Triangle : 4
-Area of Triangle = 4.0
-Enter Radius of Circle : 2
-Area of Circle = 12.56
-Enter Length of Rectangle : 3
-Enter Breadth of Rectangle : 8
-Area of Rectangle = 24.0
-Enter Side of Square : 4
-Area of Square =  16.0
+![image](https://github.com/user-attachments/assets/8b2fbbea-ea49-48d0-b5ba-8f3da95be457)
+
 ## Armstrong :
 ### Output:
-Enter Number : 5
-No
+![image](https://github.com/user-attachments/assets/92495647-056d-4c43-9c46-dcb212ec44eb)
+
 ## bank class :
 ### Output:
-name : Ramakant
-Total amount : 300000
-Total amount : 301500
-Total amount : 299500
-name : Ramakant
-Total amount : 299500
+![image](https://github.com/user-attachments/assets/1829990d-47ec-4c05-b1cc-81d033066a7b)
 
 ## CalcProject :
 ### Output:
- Enter Choice:
-1.Add	2.Sub
-3.Mul	4.Div
-5.Exit : 1
+![image](https://github.com/user-attachments/assets/b138901f-469e-483f-8703-5082fdec1f23)
+![image](https://github.com/user-attachments/assets/7f73835c-b24f-4d0f-9d42-3b9fb659cc9a)
 
-Enter First Number : 10
-Enter Second Number : 20
-Add = 30
 ## Celsius to Fahrenheit and inverse :
 ### Output:
-Enter temperature in Celsius : 5
-41.0
-Enter temperature in Fahrenheit : 5
--15.0
+![image](https://github.com/user-attachments/assets/8232d442-b572-4b04-b07a-ca7033a796b0)
+
 ## class Amstrong no :
 ### Output:
-Enter the number :2
- NOT Amstromg number
+![image](https://github.com/user-attachments/assets/e4bfb8cf-ba68-4a4d-931a-7999515e9e49)
+
  ## class Amstrong no2 :
 ### Output:
-Enter the number :135
- NOT Amstromg number
+![image](https://github.com/user-attachments/assets/94111f7b-d839-4d25-9cbb-2b1260dc7e07)
+
 ## class and object :
 ### Output:
-28
-m1 is method start
-method is m1
-m1 is method stop
-class and object2 :
-HP Vectus
-hap
-8
-16
-512
-65000
-## Class compound intres :
+![image](https://github.com/user-attachments/assets/80ea24a9-f8bc-4ca8-9c3b-2c3726dc40c7)
+
+## class and object2 :
 ### Output:
-Enter the principal Amount :2000
-Enter the rate OF interest :2
-Enter the time in year :1
-('Total ampount :', 2040.0)
-Comound interest : 40.0
+![image](https://github.com/user-attachments/assets/bdbc7bf5-3de8-4263-b26e-9aa335af86b8)
+
+## Class compound interest :
+### Output:
+![image](https://github.com/user-attachments/assets/8abe3b25-6573-4ac5-b627-01b406456da7)
+
 ## Class Descending Order :
 ### Output:
-1 to 100 revers print
+100,99,98,97........1
+
 ## Class Earning :
 ### Output:
-Enter average fee per student(YEARLY) : 45000
-Enter number of students : 10
-Enter expenses per month(ALL) : 2000
-Total Fee : 450000
-Average Monthly Fee : 37500.0
-Monthly Expenses : 2000
-Monthly Earning : 35500.0
-Total Earning : 426000.0
+![image](https://github.com/user-attachments/assets/c7bf033c-e1d4-409a-b28e-7b1444c33304)
+
 ## class even number :
 ### Output:
-2
-4
-…..
-98
-100
+2,4,6,8.....100
+
 ## Class Factorial :
 ### Output:
-Enter a number : 5
-Factorial of 5 is 120
+![image](https://github.com/user-attachments/assets/402ed67e-4a7d-41e4-ab29-12daf99479fd)
+
 ## class for loop print natural number :
 ### Output:
-1 2 3 4 …. 99 100
-## class geater than 3 :
+1,2,3,4 …. 99,100
+
+## class greater than 3 :
 ### Output:
-Enter the number :2
-Enter the number :5
-Enter the number :8
-c is geater than
+![image](https://github.com/user-attachments/assets/8231e98d-23a4-42bf-9eec-fe97a7037099)
+
 ## class greter than 3 no :
 ### Output:
-Enter the number :2
-Enter the number :5
-Enter the number :8
-2 is smaller than  5 and 8
+![image](https://github.com/user-attachments/assets/327b0e01-072b-43e8-aa2f-d05751dfdd8f)
+
 ## class greter than :
 ### Output:
-Enter the number :2
-Enter the number :5
-2 is smaller than 5
+![image](https://github.com/user-attachments/assets/191c8a74-4c90-4d13-a505-a3583a622f78)
+
 ## class Nature :
 ### Output:
-Enter ending number : 10
-Total count : 55
+![image](https://github.com/user-attachments/assets/4c6b5975-9f2e-40d6-a6fd-f041727079c9)
+
 ## class odd number :
 ### Output:
-1 3 5 … 97 99
+1,3,5 … 97,99
+
 ## class of circle :
 ### Output:
-Enter Radius of Circle : 5
-Area of Circle = 78.5
+![image](https://github.com/user-attachments/assets/1ca39a7b-10a7-4e8e-b06e-ab630d35a3de)
+
 ## class prime :
 ### Output:
-2 3 5 7  11 13 17 19 ….97
+2,3,5,7,11,13,17,19 . . . .97
+
 ## class rectangle :
 ### Output:
-Enter Length of Rectangle : 4
-Enter Breadth of Rectangle : 5
-Area of Rectangle = 20.0
-## class self key word :
+![image](https://github.com/user-attachments/assets/c9e0743b-2a1c-4575-8f64-61f882ee6f09)
+
+## class self keyword :
 ### Output:
-get Student info method
-rn= 2
-name= ram
-## class simpal intrest :
+![image](https://github.com/user-attachments/assets/44549163-22d6-432b-9009-e4628dc6cb5c)
+
+## class simple interest :
 ### Output:
-Enter the principal Amount :2000
-Enter the rate OF interest :10
-Enter the time in year :1
-simpal interest : 200.0
+![image](https://github.com/user-attachments/assets/cd3eed57-4298-4281-a001-d7c6144950ce)
+
 ## class square :
 ### Output:
-Enter Length of  square: 2
-Area of  squre  = 4.0
+![image](https://github.com/user-attachments/assets/0bdda736-fb25-4e16-885d-1bcdd57aa820)
+
 ## class triangle :
 ### Output:
-Height of Triangle : 2
-Base of Triangle : 5
-Area of Triangle = 5.0
+![image](https://github.com/user-attachments/assets/dd4b8342-800c-4396-bde9-8e46386ef36c)
+
 ## Class Vowel :
 ### Output:
- Enter Your String : ramakant
-Vowels : 3
-Consonants : 5
+![image](https://github.com/user-attachments/assets/80685a06-d4f0-45a9-b8d6-a0421ce4dcec)
+
 ## class whole number :
 ### Output:
-0 1 2 3 4 ….. 98 99 100
+0,1,2,3,4....98,99,100
+
 ## Compound interest :
 ### Output:
-Enter Principle Amount : 2000
-Enter Rate of interest : 1
-Enter Time in years : 1
-2020.0
-20.0
+![image](https://github.com/user-attachments/assets/b555822b-7826-436d-b3ba-6081a8c2fe17)
+
 ## Decreasing Order :
 ### Output:
-Enter a number : 10
-10 9 8 7 6 5 4 3 2 1
+![image](https://github.com/user-attachments/assets/0bad594d-b931-4099-b111-532b72c55384)
+
 ## Electricity bill using unit and rate Monthly :
 ### Output:
 Enter rent : 20000
@@ -193,464 +146,231 @@ Cost per Month : 20000
 Cost for year : 240000
 ## Electricity bill using unit and rate :
 ### Output:
-Enter number of units : 12
-0
+![image](https://github.com/user-attachments/assets/51e7d3ec-0218-4517-a988-be7c48c3abca)
+
 ## Electricity bill using unit :
 ### Output:
-Enter number of units : 120
-600
+![image](https://github.com/user-attachments/assets/b209900e-4463-40dc-9190-71f33baacb96)
+
 ## Eligible for voting if else statement :
 ### Output:
-Enter Age : 18
-Congratulations, You are ELIGIBLE for voting
-## Even Odd For Loop :
+![image](https://github.com/user-attachments/assets/0e5410eb-98d5-46ea-916c-73b93090edcb)
+
+## Even For Loop :
 ### Output:
-Even 
-## Odd For Loop.py
-### Output:
-Enter Start : 2
-Enter Stop : 5
-2
-4
-Total Even numbers between 2 and 5 are 2
+![image](https://github.com/user-attachments/assets/e971cb6b-2729-436b-ad85-44f1abdffd33)
+
 ## Even Odd If Else :
 ### Output:
-Enter the number : 2
-2 is even
+![image](https://github.com/user-attachments/assets/40e2ea05-2d37-42ff-9120-0421678014ae)
+
 ## EXC :
 ### Output:
-A =  20 	B =  10
+![image](https://github.com/user-attachments/assets/31e380d3-4097-465f-ac66-829a529a0b15)
+
 ## Exchange value :
 ### Output:
-Enter A : 10
-Enter B : 20
-Before Swapping  A = 10  B = 20
-After Swapping A= 20  B= 10
+![image](https://github.com/user-attachments/assets/94177ab3-ec8e-4299-89f3-b89ee8bd1c97)
+
 ## Factorial :
 ### Output:
-Enter a number : 5
-Factorial of 5 is 120
+![image](https://github.com/user-attachments/assets/a6f1a2d5-82fe-41ff-a6e9-45ebd5d0aeb6)
+
 ## Fibonacci Series :
 ### Output:
-Enter a number of terms : 2
-0
-1
+![image](https://github.com/user-attachments/assets/0e7c47e3-95ce-417d-89b1-6db9031f93fa)
+
 ## For Loop Butterfly Pattern :
 ### Output:
-*                  *
-**                **
-***              ***
-****            ****
-*****          *****
-******        ******
-*******      *******
-********    ********
-*********  *********
-********************
-********************
-*********  *********
-********    ********
-*******      *******
-******        ******
-*****          *****
-****            ****
-***              ***
-**                **
-*                  *
+![image](https://github.com/user-attachments/assets/a33606b3-eca8-422e-afef-c3eae86c0cff)
+
 ## For Loop Diamond Pattern :
-         ### Output:
-          *
-        ***
-       *****
-      *******
-     *********
-    ***********
-   *************
-  ***************
- *****************
-*******************
-*******************
-*****************
- ***************
-  *************
-   ***********
-    *********
-     *******
-      *****
-       ***
+### Output:
+![image](https://github.com/user-attachments/assets/dbfd48ef-e82d-4676-8df8-358331e715e7)
+
 ## For Loop Number Pattern :
 ### Output:
-1
-12
-123
-1234
-12345
-123456
-1234567
-12345678
-123456789
+![image](https://github.com/user-attachments/assets/b09df2f6-9741-4ee6-9b03-0973dd53ddf6)
+
 ## For Loop Pattern :
 ### Output:
-* * * * * * * * 
-*                    * 
-*                    * 
-* * * * * * * *
+![image](https://github.com/user-attachments/assets/2d1c1b9c-1bd3-42f6-ad53-83eeef9bccc9)
+
 ## For Loop Pyramid Pattern :
-  ### Output:
-      *
-     ***
-    *****
-   *******
-  *********
+### Output:
+![image](https://github.com/user-attachments/assets/eabcd6a9-fe12-4b16-bb3c-025addc26537)
+
 ## For Loop Star Pattern :
 ### Output:
-*
-**
-***
-****
-*****
-******
-*******
-********
-*********  
+![image](https://github.com/user-attachments/assets/a5f67c59-ea47-4a92-816f-91c9d25fe4fb)
+
 ## For Loop Triangle Pattern :
-     ### Output:
-     *
-        ***
-       *****
-      *******
-     *********
-    ***********
-   *************
-  ***************
- *****************
-*******************
+### Output:
+![image](https://github.com/user-attachments/assets/0a333152-e0e5-4542-91f8-477d34ecbc65)
+
 ## Function :
 ### Output:
-0
-15
--10
+![image](https://github.com/user-attachments/assets/dcc9a55c-d84e-4803-bccf-d4071fd1083d)
+
 ## function prime no return print :
 ### Output:
-Enter the number :2
-Prime number
+![image](https://github.com/user-attachments/assets/1f470ef2-278c-42bd-a426-2389e88fc09b)
+
 ## function primeno in return value :
 ### Output:
-Enter the number :2
-True
+![image](https://github.com/user-attachments/assets/e89c6c8e-65d6-4e84-96a0-3b220c409f7d)
+
 ## Function primeNo with count :
 ### Output:
-Enter the number :2
-Enter the number :8
-2
-3
-5
-7
-total number of  2 and 8 are : 4
+![image](https://github.com/user-attachments/assets/c2a3704d-da18-4bc3-9c4e-0f838e12489a)
+
 ## Function PrimeNo :
 ### Output:
-Enter the number :2
-Enter the number :5
-2
-3
-total number of  2 and 5 are : 2
+![image](https://github.com/user-attachments/assets/faf7dbe7-178a-416f-86fd-43bd474d7bb9)
+
 ## function sampal :
 ### Output:
-Program Start
-before calling the function 
-Greet function start
- Good Morning 
-Greet function ends
-Afeter calling the function 
-program ends
+![image](https://github.com/user-attachments/assets/05fb2dac-0792-4fcb-9940-67cf61c722cc)
+
 ## function sampal2 :
 ### Output:
-Add : 30
-Sub : -10
-Mul : 200
-Div : 0.5
+![image](https://github.com/user-attachments/assets/d1546ef3-c1d9-4ef6-a3fe-70567c25bf06)
+
 ## Function Square of numbers :
 ### Output:
-1
-4
-9
-16
-25
-36
-49
-64
-81
-100
-Grade If else :
-Enter your percentage : 94
-Grade A
+![image](https://github.com/user-attachments/assets/49fb8857-c994-4bf7-a07e-795e1cd485c0)
+
+## Grade If else :
+### Output:
+![image](https://github.com/user-attachments/assets/4c47f748-cdaf-44a5-b291-0bbc1b0683e8)
+
 ## Grade2 If else :
 ### Output:
-Enter Marks of subject 1 : 55
-Enter Marks of subject 2 : 45
-Enter Marks of subject 3 : 35
-Enter Marks of subject 4 : 75
-Enter Marks of subject 5 : 88
-298
-59.6
-Pass
+![image](https://github.com/user-attachments/assets/e0efd2e4-be96-43f3-9646-b5e9eb022ad8)
+
 ## Greatest between 2 number :
 ### Output:
-Enter A : 20
-Enter B : 54
-A is smaller than B
+![image](https://github.com/user-attachments/assets/32e46e02-c6b4-436e-8c31-48f0e9b68540)
+
 ## Greatest between 3 number :
 ### Output:
-Enter A : 20
-Enter B : 45
-Enter C : 35
-A is Smaller than B and C
+![image](https://github.com/user-attachments/assets/4222d930-41c4-4725-9af5-5c226f324f68)
+
 ## Gym management :
 ### Output:
-Per Month Gym cost : 5000
-Number of customers : 10
-Is daily membership available(yes/no) : yes
-Enter daily charges : 400
-Enter number of daily customers : 5
-Daily Earning : 2000
-Total Cost per Month : 50000
-Total Cost per Year : 600000
-Enter discount in percentage for month :500
+![image](https://github.com/user-attachments/assets/f06cc604-23e0-4077-849c-e59883a65cc4)
+
 ## Is Not and In:
 ### Output:
-False
-True
-True
-True
-False
-True
-0
-1
-2
-3
-4 
+![image](https://github.com/user-attachments/assets/45b34112-43d8-41b0-97d8-995052bbd4fd)
+
 ## Jump Statement and Pass :
 ### Output:
-1
-2
-3
-4
-Loop Terminated
-1
-2
-3
-4
-6
-7
-8
-9
-10
-Loop Terminated
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-Loop Terminated
+![image](https://github.com/user-attachments/assets/09f6c2eb-951f-4983-b7e7-961bdd624a14)
+
 ## Leap Year If else :
 ### Output:
-Enter your Year : 2020
-Leap Year
+![image](https://github.com/user-attachments/assets/599480bc-6e03-4158-9056-f55abb262123)
+
 ## MathModule :
-## MathModule=2 :
+## MathModule2 :
 ### Output:
-Add : 15
-Sub : -5
-Mul : 50
-div : 0.5
-Mess Food :
-Enter Charger per month : 500
-Enter number of customers : 20
-Enter Expense per month : 100
-Earning per month : 9900
-Earning per yearly : 118800
+![image](https://github.com/user-attachments/assets/a6efae2e-c1e0-47fb-b4ca-b9f11b4d0c0e)
+
+## Mess Food :
+### Output :
+![image](https://github.com/user-attachments/assets/28ca920b-287e-42b8-90cf-8b528e974595)
+
 ## Nested For Loop :
 ### Output:
-1 1
-1 2
-1 3
-1 4
+![image](https://github.com/user-attachments/assets/d4dd3d0e-ab66-4b57-a431-4c16f2cc4a30)
 
-2 1
-2 2
-2 3
-2 4
-
-3 1
-3 2
-3 3
-3 4
-
-4 1
-4 2
-4 3
-4 4
 ## Number divisible by 5 :
 ### Output:
-Enter the number : 2
-2 is Not Divisible by 5
+![image](https://github.com/user-attachments/assets/108a448f-5efc-4e40-9b47-e23737c109b4)
+
 ## Number is positive or not if else :
 ### Output:
-Enter the number : 2
-2 is Positive
+![image](https://github.com/user-attachments/assets/7f418dc3-0734-4589-a1f3-f37d9a73798c)
+
 ## Prime Number Range :
 ### Output:
-Enter Start : 2
-Enter Stop : 5
-2
-3
-Total Prime numbers between 2 and 5 are 2
+![image](https://github.com/user-attachments/assets/fa47cba6-6a30-41f1-a491-b05dd638ad27)
+
 ## Prime Number :
 ### Output:
-Enter a number : 5
-Prime Number
-Prime Number2 :
-Enter a number : 6
-Not a prime number
+![image](https://github.com/user-attachments/assets/474596f9-6408-4239-bed9-4573f9252ebc)
+
 ## Principle amount :
 ### Output:
-Enter Simple Interest : 200
-Enter Principle Amount : 1200
-Enter Rate of interest : 10
-Time in years : 1.6666666666666667
-Quadrant on X and Y axis :
-Enter X-axis Point : 2
-Enter Y-axis Point : 5
-1st Quadrant
+![image](https://github.com/user-attachments/assets/79e64d30-8b0a-4c6c-a6a0-5e7cd3d2cc03)
+
 ## Simple Interest :
 ### Output:
-Enter Principle Amount : 2000
-Enter Rate of interest : 12
-Enter Time in years : 1
-Simple Interest : 240.0
-Total Payable : 2240.0
-Total Monthss : 12
-EMI : 186.66666666666666
+![image](https://github.com/user-attachments/assets/c697a326-87df-468f-b230-d2c1d5a33712)
+
 ## Speed and Distance :
 ### Output:
-Enter Distance in KM : 20
-Enter Time in Hrs : 5
-Distance in Meters : 20000
-Distance in Miles : 12.0
-Time in Minutes : 300
-Time in Seconds : 18000
-Enter Distance in Miles : 20
-Distance in KM = 33.333333333333336
-Enter Distance in Meters : 45
-Distance in KM = 0.045
-Enter Time in Seconds : 450
-Time in Hrs : 0.125
-Enter Time in Minutes : 12
-Time in Hrs : 0.2
+![image](https://github.com/user-attachments/assets/f91441d6-8c8b-4c01-ad41-80fd41316838)
+
 ## string blank space :
 ### Output:
-hi i am ramakant 
- space :
-hi i am ramakant
-Right space :
- hi i am ramakant
-leaft space :
-hi i am Ramakant
-string upper & lower :
-Upper :
-RAMAKANT
-Lower :
-chaudhari
-Title :
-Chaudhari
-Capitalize :
-Bca
-lenth
-8
-/nIndex :
-k
-rama
-kant
-ka
-makant
-tm
-String
-ramakant
-## Deffrent logic to print string:
-### Output:
-my name is xyz and age is 21
-my name is xyz and age is 21
-Student is eligible for exam or not :
-Enter your Marks : 45
-Enter your Attendance : 75
-Not eligible for the exam
+![image](https://github.com/user-attachments/assets/ff9e8b27-4ff5-4247-9215-dcfdf438c296)
+
+## string upper & lower :
+### Output :
+![image](https://github.com/user-attachments/assets/48a9ac3a-34be-4d74-b2a9-fdcf99286aa3)
+
+## Student is eligible for exam or not :
+### Output :
+![image](https://github.com/user-attachments/assets/12c2ef58-cc47-4c91-b124-5608487129de)
+
 ## Type of Triangle :
 ### Output:
-Enter 1st angle of triangle : 2
-Enter 2nd angle of triangle : 4
-Enter 3rd angle of triangle : 5
-Triangle is invalid
+![image](https://github.com/user-attachments/assets/26577bc8-7ed8-4920-be2e-f362d0e45a1c)
+
 ## Vowel or Consonant :
 ### Output:
-Enter a string : ramakant
-String : ramakant
-Number of Vowels in string ramakant : 3
-Number of Consonants in string ramakant : 5
-Neither Vowels nor Consonants in string ramakant : 0
+![image](https://github.com/user-attachments/assets/96a75026-a5df-4c3c-a850-9bfba6f73c5d)
+
 ## While Loop Ascending :
 ### Output:
-1 2 3 4 5 …. 100
+1,2,3,4,5....100
+
 ## While Loop Descending :
 ### Output:
-100 99 …. 4 3 2 1
+100,99.....4,3,2,1
+
 ## While Loop Even Odd :
 ### Output:
-Enter Start : 2
-Enter Stop : 5
-2
-4
-Even Numbers between 2 and 5 : 2
+![image](https://github.com/user-attachments/assets/c87168cb-172a-4170-a84a-a0bb95c6035b)
+
 ## While Loop Factorial :
 ### Output:
-Enter a number : 2
-Factorial of number 2 : 2
+![image](https://github.com/user-attachments/assets/dd67820d-a4d8-44f0-a5fc-3030ab670162)
+
 ## While Loop Factors :
 ### Output:
-Enter a number : 2
-1
-2
-Total Factors : 2
+![image](https://github.com/user-attachments/assets/8804bd01-35e7-4f6c-afeb-1eddd646989d)
+
 ## While Loop Prime Number 2 :
 ### Output:
-Enter Start : 2
-Enter Stop : 5
-2
-3
-Total Prime numbers between 2 and 5 are 2
+![image](https://github.com/user-attachments/assets/bc3120d0-0614-41a2-8344-e6b03ba534a7)
+
 ## While Loop Prime Number :
 ### Output:
-Enter a number : 3
-Prime number
+![image](https://github.com/user-attachments/assets/1ae8b01f-d402-4799-91e1-af8c4ef08121)
+
 ## While Loop Product Price :
 ### Output:
-Enter Price : 2
-Enter Price : 5
-Enter Price : 9
-Enter Price : 4
-Enter Price : 5
-25
-12.5
-14.75
+![image](https://github.com/user-attachments/assets/f7bbd752-2b55-4994-a00d-e60cceb83be7)
+
 ## While Loop Sum :
 ### Output:
-55
+![image](https://github.com/user-attachments/assets/8397c4e4-da4b-4f81-8612-df6220f8660c)
+
 ## Electricity bill using unit – Copy :
 ### Output:
-Enter number of units : 12
-0
+![image](https://github.com/user-attachments/assets/09d5683b-9741-45ea-9048-0fced193f8f3)
+
 
