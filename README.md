@@ -373,4 +373,42 @@ Cost for year : 240000
 ### Output:
 ![image](https://github.com/user-attachments/assets/09d5683b-9741-45ea-9048-0fced193f8f3)
 
+## init And Self method
+### Output: 
+![image](https://github.com/user-attachments/assets/f79be4a4-3fb8-4d65-9bb0-13618c6dfb99)
 
+## init and str method book
+### Output:
+![image](https://github.com/user-attachments/assets/092f7347-c34c-44fe-ac45-99762d28395b)
+
+## init and str method emp
+### Output:
+![image](https://github.com/user-attachments/assets/295ecece-96d4-4688-8f88-df0a03c1c207)
+
+## inti and str method student
+### Output:
+![image](https://github.com/user-attachments/assets/7779ee81-626c-453b-af04-51b0d19e7beb)
+
+## list in  class & method
+### Output:
+![image](https://github.com/user-attachments/assets/00b7645f-1035-4d54-b7fb-2a978097931c)
+
+## list in class book
+### Output:
+![image](https://github.com/user-attachments/assets/2af9cbdd-221c-4407-a32b-04e34beda925)
+
+## list in class car with out init method
+### Output:
+![image](https://github.com/user-attachments/assets/9ab0240d-5b3e-46f4-87ea-b8c8140b6c60)
+
+## list in class car
+### Output:
+![image](https://github.com/user-attachments/assets/9cd63ef6-6e53-406a-8541-0551db15df7d)
+
+## list in class emp
+### Output:
+![image](https://github.com/user-attachments/assets/ef2f5dfa-ab5b-43ba-9e4b-8259cdbbe01a)
+
+## list in class mook without init method
+### Output:
+![image](https://github.com/user-attachments/assets/3c14de35-be7f-4ed0-811f-fbde9c9a147b)
