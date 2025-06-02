@@ -412,3 +412,31 @@ Cost for year : 240000
 ## list in class mook without init method
 ### Output:
 ![image](https://github.com/user-attachments/assets/3c14de35-be7f-4ed0-811f-fbde9c9a147b)
+
+## calc in inheritanc with out user
+### Output:
+![image](https://github.com/user-attachments/assets/c94e4be4-27f5-490f-9878-08fce62b54e6)
+
+## clac in inheritances
+### Output:
+![image](https://github.com/user-attachments/assets/24c65dc4-a131-4345-9792-9bcb160ce2cf)
+
+## inheritances in vechical
+### Output:
+![image](https://github.com/user-attachments/assets/279e6af9-7e1f-46cf-8e9e-00ba8fc6353f)
+
+## dictionary in python
+### Output:
+![image](https://github.com/user-attachments/assets/7455fbc6-be03-48c3-85fb-e06c52b7fad0)
+
+## list in python
+### Output:
+![image](https://github.com/user-attachments/assets/838c014c-97cc-413e-a979-c1d3c242b3c1)
+
+## set in python
+### Output:
+![image](https://github.com/user-attachments/assets/fa6c5b1f-0732-4acd-a780-1c4fe2ea298a)
+
+## Tuple in python
+### Output:
+![image](https://github.com/user-attachments/assets/5a84d4b1-6639-4840-8cf7-40a1547edbdb)
