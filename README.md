@@ -440,3 +440,14 @@ Cost for year : 240000
 ## Tuple in python
 ### Output:
 ![image](https://github.com/user-attachments/assets/5a84d4b1-6639-4840-8cf7-40a1547edbdb)
+##  inheritances isinstance
+### Output:
+![image](https://github.com/user-attachments/assets/d51abda5-595d-43d7-9369-d7aa70b9c4e2)
+
+##  inhritances issubclass
+### Output:
+![image](https://github.com/user-attachments/assets/f572c934-eccd-4e74-9f69-6bbb6439797b)
+
+##  inherutances super method
+### Output:
+![image](https://github.com/user-attachments/assets/bfaa2b02-94b6-4835-9457-c5e360d0dcfd)
