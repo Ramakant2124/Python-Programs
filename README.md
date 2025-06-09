@@ -451,3 +451,10 @@ Cost for year : 240000
 ##  inherutances super method
 ### Output:
 ![image](https://github.com/user-attachments/assets/bfaa2b02-94b6-4835-9457-c5e360d0dcfd)
+## function overloading
+### Output:
+![image](https://github.com/user-attachments/assets/263aac06-107f-4cd4-a66a-59c0ee4d696f)
+
+## method overloading
+### Output:
+![image](https://github.com/user-attachments/assets/7e0d5b8d-a82d-49d7-a5dc-343b3c1ab78c)
