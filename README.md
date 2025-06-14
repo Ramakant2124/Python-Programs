@@ -458,3 +458,12 @@ Cost for year : 240000
 ## method overloading
 ### Output:
 ![image](https://github.com/user-attachments/assets/7e0d5b8d-a82d-49d7-a5dc-343b3c1ab78c)
+
+## Duck Typing
+### Output:
+## Duck Typing 2
+### Output:
+## Encapsulation in python
+### Output:
+## seter & Getter in python
+### Output:
