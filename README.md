@@ -461,11 +461,21 @@ Cost for year : 240000
 
 ## Duck Typing
 ### Output:
+![image](https://github.com/user-attachments/assets/4ae09af8-04f1-4386-bc5c-c80e00801bc3)
+
 ## Duck Typing 2
 ### Output:
+![image](https://github.com/user-attachments/assets/c680dc79-302b-47c9-8c22-2ea231c0b561)
+
 ## Encapsulation in python
 ### Output:
+![image](https://github.com/user-attachments/assets/eff127a3-133f-4814-ad4a-2ce2c331a2bf)
+
 ## seter & Getter in python
 ### Output:
+![image](https://github.com/user-attachments/assets/3d952796-4830-423a-9536-6d5ceea1f316)
+
 ## class bnak project
 ### Output:
+![image](https://github.com/user-attachments/assets/e03a7e6d-652a-454a-871a-955ead33b188)
+**
