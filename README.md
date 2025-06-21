@@ -481,3 +481,7 @@ Cost for year : 240000
 ## Abstraction in python
 ### Output:
 ![image](https://github.com/user-attachments/assets/a9d535cc-c4b8-4a28-8dc4-59cf5e8d9454)
+
+## All Magic method
+### Output:
+![image](https://github.com/user-attachments/assets/eba863a2-cb4f-48a6-905c-03705cbbb7e7)
