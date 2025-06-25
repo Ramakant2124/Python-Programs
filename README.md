@@ -485,3 +485,17 @@ Cost for year : 240000
 ## All Magic method
 ### Output:
 ![image](https://github.com/user-attachments/assets/eba863a2-cb4f-48a6-905c-03705cbbb7e7)
+
+## Exception Handling
+### Output:
+![Screenshot 2025-06-25 155348](https://github.com/user-attachments/assets/25f74494-2ee0-4dd0-b704-5c5e2b6fd841)
+
+## Multipel Exception Handling
+### Output:
+![Screenshot 2025-06-25 155500](https://github.com/user-attachments/assets/33a7dff8-fbf4-4451-b492-409dcef7f617)
+
+![Screenshot 2025-06-25 155535](https://github.com/user-attachments/assets/eb3f2e3f-5874-4fcc-a6b6-e77a2f660040)
+
+![Screenshot 2025-06-25 155603](https://github.com/user-attachments/assets/03f08592-1d1d-42bb-83e9-67faa327491b)
+
+## -Ramakant Chaudhari
