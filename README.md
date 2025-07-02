@@ -498,10 +498,4 @@ Cost for year : 240000
 
 ![Screenshot 2025-06-25 155603](https://github.com/user-attachments/assets/03f08592-1d1d-42bb-83e9-67faa327491b)
 
-## File Handling
-### Output:
-![Screenshot 2025-07-02 162806](https://github.com/user-attachments/assets/72736a3f-df52-4ff7-b1c2-c69506c4fd55)
-
-
-
 ## -Ramakant Chaudhari
