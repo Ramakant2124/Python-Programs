@@ -504,5 +504,9 @@ Cost for year : 240000
 
 ![Screenshot 2025-07-02 181020](https://github.com/user-attachments/assets/ff548cff-6c94-4356-a86e-ca4c605c4f08)
 
+## File Handling mini Project Filder 
+### Output :
+
+![Screenshot 2025-07-04 160945](https://github.com/user-attachments/assets/5b5d81c4-eeb5-483b-9477-b8a291cbe0c8)
 
 ## -Ramakant Chaudhari
